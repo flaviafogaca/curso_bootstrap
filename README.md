@@ -1,2 +1,2 @@
 # curso_bootstrap
-Curso utilizando bootstrap do Bootcamp "Take Blip Web Developer".
+Curso utilizando Bootstrap do Bootcamp "Take Blip Web Developer".
